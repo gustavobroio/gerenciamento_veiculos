@@ -1,0 +1,28 @@
+{
+  "veiculos": [
+    {
+      "id": "1",
+      "placa": "ABC1D23",
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "ano": 2023,
+      "cor": "Prata"
+    },
+    {
+      "placa": "EAM6305",
+      "marca": "Ford",
+      "modelo": "Focus",
+      "ano": 2012,
+      "cor": "branco",
+      "id": "P1nhiUq"
+    },
+    {
+      "placa": "EAM6305",
+      "marca": "VW",
+      "modelo": "Fusca",
+      "ano": 1999,
+      "cor": "azul",
+      "id": "Zx5fCds"
+    }
+  ]
+}
