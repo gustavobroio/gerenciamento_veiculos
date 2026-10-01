@@ -1,4 +1,4 @@
-# 🚗 Garagem — Cadastro e Gerenciamento de Veículos
+# Cadastro e Gerenciamento de Veículos
 
 Aplicativo mobile em **React Native + Expo + TypeScript** para cadastrar,
 listar, pesquisar, editar e excluir veículos, consumindo uma API REST
